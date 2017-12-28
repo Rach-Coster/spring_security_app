@@ -27,5 +27,5 @@ A security app I made with this tutorial: https://spring.io/guides/gs/securing-w
   - compile("org.springframework.boot:spring-boot-starter-thymeleaf") <- (This is for the dependencies{ } area) 
   - springBoot {
       mainClass = "Application.java"
-    } <- (I didn't end up needed this function but I thought I'd include it just in case some other poor person on the internet was having a similar issue)
+    } <- (I didn't end up needing this function but I thought I'd include it just in case some other poor person on the internet was having a similar issue)
     
